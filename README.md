@@ -56,4 +56,6 @@ A live public deployment of this template is available at [https://d1-template.t
 4. Deploy the project!
    ```bash
    npx wrangler deploy
-   ```
+   git add .
+git commit -m "Fix package.json and add build script"
+git push```
